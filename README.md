@@ -1,4 +1,4 @@
-Star is beautiful!
+Star is beautiful
 
 Testing testing 1 2 3
 
